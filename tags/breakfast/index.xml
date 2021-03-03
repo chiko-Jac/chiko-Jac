@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breakfast on Chef Chiko</title>
+    <link>https://chiko-jac.github.io/tags/breakfast/</link>
+    <description>Recent content in Breakfast on Chef Chiko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chiko-jac.github.io/tags/breakfast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easy Pancakes</title>
+      <link>https://chiko-jac.github.io/recipes/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chiko-jac.github.io/recipes/</guid>
+      <description>Prepare your mind and hearts for a new experience. In this post, i am going to show you how to make pancakes that will melt your tastebuds like wagyu and take you on a savory umami journey.
+Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Bullet points More bullet points  1.Numeric points 2. More 3. More&amp;hellip;
+italic_ and also *****italic** __Bold__ and also *Bold*</description>
+    </item>
+    
+  </channel>
+</rss>
